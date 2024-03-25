@@ -58,12 +58,10 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-![Screenshot 2024-03-19 113909](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/dd035184-c0ff-469a-a3de-f944ad3ad6f0)
+![Screenshot 2024-03-25 113428](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/bb90151f-89d9-47b2-831d-b0b97453b3bb)
+![Screenshot 2024-03-25 113506](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/71072a4c-dd44-4a3d-866c-7a9355ca8196)
+![Screenshot 2024-03-25 113609](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/3f73fb78-acf1-4102-80d3-2e5261a00e41)
 
-
-![Screenshot 2024-03-19 113946](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/95435013-3293-4c2f-a53d-84eb38b2b829)
-
-![Screenshot 2024-03-19 114033](https://github.com/hema-dharshini5/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147117728/f2e855af-6fc5-473d-bd53-dbafa826b1fe)
 
 
 
